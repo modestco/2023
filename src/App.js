@@ -21,7 +21,7 @@ export default function App() {
           and is{" "}
           <a
             rel="noopener noreferrer"
-            href="https://github.com/wecodeschool/react-weather-app"
+            href="https://github.com/modestco/2023"
             target="_blank"
           >
             open-sourced on GitHub
