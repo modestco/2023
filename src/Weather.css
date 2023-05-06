@@ -3,7 +3,7 @@
   border: 1px solid #dadde1;
   padding: 16px;
   border-radius: 4px;
-  color: rgb(135, 135, 135);
+  color: #6a7b73;
 }
 
 .Weather h1 {
@@ -23,7 +23,7 @@
 .Weather li {
   font-size: 18px;
   font-weight: 300;
-  line-height: 19px;
+  line-height: 30px;
   list-style: none;
 }
 
