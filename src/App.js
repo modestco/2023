@@ -29,7 +29,7 @@ export default function App() {
           and{" "}
           <a
             rel="noopener noreferrer"
-            href="https://suspicious-beaver-111c4d.netlify.com/"
+            href="https://jovial-swan-984cd1.netlify.app/"
             target="_blank"
           >
             hosted on Netlify.
